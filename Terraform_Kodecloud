@@ -23,14 +23,14 @@ Terrafrom:
 supports multiple providers major, uses HCL 
 configuration files ends with .tf and maintain version control system
 
-Declerative: will bring the current state to desired state with out our interbention
+Declarative: will bring the current state to desired state with out our intervention
 
 
 Terraform lifecycle:
 
 3 phases
 
-1>Init: intialise the project andd identofy the providers needed for target environment
+1>Init: intialise the project andd identify the providers needed for target environment
 2>Plan: draft a plan to get the target state
 3>Apply: Make the changes on target env to bring the desired state
 
