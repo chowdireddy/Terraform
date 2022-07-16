@@ -113,7 +113,7 @@ iac-server $
 
 iac-server $ terraform plan
 
-Error: Missing required argument
+Error: Missing required argument rectyfing
 
   on main.tf line 1, in resource "local_file" "games":
    1: resource "local_file" "games" {
